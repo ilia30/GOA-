@@ -1,0 +1,30 @@
+.contact-box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: solid orange 10px;
+    transform: translateX(20px)
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: solid orange 10px;
+    
+}
+   
+.box:hover{
+    margin-left :50px;
+}
+.sus{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: solid orange 10px;
+}
+.boom{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: solid orange 10px;
+}
